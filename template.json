@@ -985,13 +985,74 @@
       "weaponCategory": "",
       "weaponType": "",
       "properties": {
+        "affixed": {
+          "active": false
+        },
         "ammo": {
+          "active": false
+        },
+        "awkward": {
+          "active": false
+        },
+        "barbed": {
+          "active": false,
+          "value": 1
+        },
+        "balanced": {
+          "active": false
+        },
+        "brace": {
           "active": false
         },
         "concealable": {
           "active": false
         },
+        "deflect": {
+          "active": false
+        },
+        "disarm": {
+          "active": false
+        },
+        "doubleEnded": {
+          "active": false
+        },
+        "entangle": {
+          "active": false
+        },
+        "firearm": {
+          "active": false,
+          "value": 1
+        },
+        "impact": {
+          "active": false
+        },
+        "hipshot": {
+          "active": false
+        },
+        "keen": {
+          "active": false
+        },
+        "knockback": {
+          "active": false
+        },
+        "lunge": {
+          "active": false
+        },
+        "nimble": {
+          "active": false
+        },
+        "punch": {
+          "active": false
+        },
+        "puncture": {
+          "active": false,
+          "value": 1
+        },
         "reach": {
+          "active": false,
+          "value": 1
+        },
+        "reload": {
           "active": false,
           "value": 1
         },
@@ -999,17 +1060,28 @@
           "active": false,
           "value": ""
         },
-        "reload": {
-          "active": false,
-          "value": 1
+        "riposte": {
+          "active": false
+        },
+        "slip": {
+          "active": false
         },
         "special": {
+          "active": false
+        },
+        "stagger": {
+          "active": false
+        },
+        "steady": {
+          "active": false
+        },
+        "sunder": {
           "active": false
         },
         "thrown": {
           "active": false
         },
-        "impact": {
+        "trip": {
           "active": false
         },
         "threatening": {
@@ -1019,9 +1091,13 @@
           "active": false
         },
         "unwieldy": {
-          "active": false
+          "active": false,
+          "value": 1
         },
         "versatile": {
+          "active": false
+        },
+        "wound": {
           "active": false
         }
       },

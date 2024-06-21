@@ -23,7 +23,7 @@
   "DC20RPG.BurrowSpeed": "Burrow Speed",
   "DC20RPG.FlyingSpeed": "Flying Speed",
   "DC20RPG.ClimbingSpeed": "Climbing Speed",
-  "DC20RPG.SwimingSpeed": "Swiming Speed",
+  "DC20RPG.SwimingSpeed": "Swimming Speed",
 
   "DC20RPG.Corrosion": "Corrosion",
   "DC20RPG.Cold": "Cold",
@@ -55,7 +55,7 @@
   "DC20RPG.AttributeAgi": "Agility",
   "DC20RPG.AttributeInt": "Intelligence",
   "DC20RPG.AttributeCha": "Charisma",
-  "DC20RPG.AttributeFor": "Fortitue",
+  "DC20RPG.AttributeFor": "Fortitude",
   "DC20RPG.AttributeGri": "Grit",
   "DC20RPG.AttributePri": "Primary",
 
@@ -63,17 +63,21 @@
 
   "DC20RPG.SkillAth": "Athletics",
   "DC20RPG.SkillInm": "Intimidation",
+  "DC20RPG.SkillWaiM": "Wainwright (MIG)",
 
   "DC20RPG.SkillAcr": "Acrobatics",
-  "DC20RPG.SkillTri": "Trickery",
+  "DC20RPG.SkillDriA": "Drive (AGI)",
   "DC20RPG.SkillSte": "Stealth",
+  "DC20RPG.SkillTri": "Trickery",
 
   "DC20RPG.SkillInv": "Investigation",
+  "DC20RPG.SkillKno": "Knowledge",
   "DC20RPG.SkillMed": "Medicine",
   "DC20RPG.SkillSur": "Survival",
-  "DC20RPG.SkillKno": "Knowledge",
+  "DC20RPG.SkillWaiI": "Wainwright (INT)",
 
   "DC20RPG.SkillAni": "Animal",
+  "DC20RPG.SkillDriC": "Drive (CHA)",
   "DC20RPG.SkillIns": "Insight",
   "DC20RPG.SkillInf": "Influence",
 
